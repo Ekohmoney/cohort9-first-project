@@ -1,5 +1,5 @@
 * {
-    background-color: #999;
+    background-color: #539;
 }
 .todo-wrapper {
     width: 50rem;
@@ -17,5 +17,5 @@
 
 .checked {
     text-decoration: line-through;
-    color: red;
+    color: rgba(255, 0, 0, 0.301);
 }
